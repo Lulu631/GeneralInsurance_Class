@@ -1,0 +1,5 @@
+Komentujeme spravanie UNIT
+1. Najstrmesiu a zaroven najdlhsiu krivku ma Unit 7. Dovodom je, ze v jeho portfoliu su klienti, ktori predstavuju nizke Premium, no na ich "vybavenie" su potrebne vysoke naklady. Dalsim dovodom je, ze ako jedine dosahuje vysoke Premium, no opat naklady na jeho ziskanie su vysoke.
+2. Krivka Unit 8 je velmi podobna krivke Unit 7, az na fakt, ze Unit 8 nedosahuje velke Premium, teda je kratsia. To znamena, ze tieto dva Unity maju podobnu vzorku klientov.
+3. Krivky Unit Unit 2 a Unit 4 (asi) sa takmer prekryvaju, teda mozeme povedat, ze maju podobnych klientov.
+4. Pri nizkych hodnotach Premium sa vsetky Unity pohybuju priblizne v rovnakom mieste, teda sa spravaju rovnako. 
